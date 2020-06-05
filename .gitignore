@@ -1,0 +1,11 @@
+.vscode
+.idea
+.DS_STORE
+node_modules
+.module-cache
+*.log*
+build
+dist
+.vagrant
+ubuntu-xenial-16.04-cloudimg-console.log
+vendor
